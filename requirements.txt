@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+requests
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+tiktoken
+openai
+python-telegram-bot==20.3
